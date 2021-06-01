@@ -1,7 +1,7 @@
 {
-  "name": "Friday-Userbot",
+  "name": "🦊 Fox X Userbot",
   "description": "A Userbot Based On Pyrogram.",
-  "logo": "https://telegra.ph/file/b4e1e36c6b1fcb32dd997.jpg",
+  "logo": "https://telegra.ph//file/cd69a76f361ec54dd77d3.jpg",
   "keywords": [
     "telegram",
     "fridaybot",
@@ -9,9 +9,9 @@
     "fridaybot",
     "productivity"
   ],
-  "repository": "https://github.com/starkgang/FridayUserbot",
-  "website": "t.me/fridayot",
-  "success_url": "t.me/FridayOT",
+  "repository": "https://t.me/FoxXbotOfficials",
+  "Owner": "t.me/sathish2004",
+  "Monitor_Bot": "t.me/FoXRoBot",
   "stack": "container",
   "env": {
     "API_ID": {
@@ -46,11 +46,6 @@
     "HEROKU_APP_NAME": {
       "description": "Heroku App Name That You Filled Above.",
       "value": ""
-    },
-    "UPSTREAM_REPO": {
-      "description": "Your Upstream URL HERE. If You're Beginner, Don't Change This.",
-      "value": "https://github.com/DevsExpo/FridayUserBot",
-      "required": false
     },
     "BOT_TOKEN": {
       "description": "Your Bot Token Obtained From @BotFather. This is Not Important",
