@@ -1,11 +1,3 @@
-# Copyright (C) 2020-2021 by DevsExpo@Github, < https://github.com/DevsExpo >.
-#
-# This file is part of < https://github.com/DevsExpo/FridayUserBot > project,
-# and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/DevsExpo/blob/master/LICENSE >
-#
-# All rights reserved.
-
 import json
 import logging
 import os
@@ -206,7 +198,7 @@ Reverse Searched Link:- {img_search_url}
 Note:- Yandex is a Russian search engine, so better open link in chrome with auto-translate.
 Another Note:- Don't Use This Command continually, Yandex Will Block Your Request.
 <u><b>Reverse Search Completed By Friday.
-Get Your Own 🦊 Fox X UserBot From @FoxXbotOfficials.</b></u>
+Get Your Own Friday From @FRIDAYCHAT.</b></u>
 """
     await pablo.edit(caption, parse_mode="HTML")
     os.remove(imoge)
