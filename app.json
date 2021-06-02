@@ -35,10 +35,6 @@
       "description": "Do You Wish To Load X-Tra Plugins?",
       "value": "True"
     },
-    "LOG_GRP": {
-      "description": "A Group ID Where You Want To Log Important Logs.",
-      "value": ""
-    },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.",
       "value": ""
