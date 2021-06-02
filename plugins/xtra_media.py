@@ -98,7 +98,7 @@ async def reverseing(client, message):
             "\n`Parsing source now. Maybe.`"
         )
     else:
-        await pablo.edit("`Google told me to fuck off.`")
+        await pablo.edit("`Google told me to Get Lost.`")
         return
 
     os.remove(name)
@@ -197,8 +197,8 @@ async def yandex_(client, message):
 Reverse Searched Link:- {img_search_url}
 Note:- Yandex is a Russian search engine, so better open link in chrome with auto-translate.
 Another Note:- Don't Use This Command continually, Yandex Will Block Your Request.
-<u><b>Reverse Search Completed By Friday.
-Get Your Own Friday From @FRIDAYCHAT.</b></u>
+<u><b>Reverse Search Completed By 🦊 Fox X UserBot.
+Get Your Own 🦊 Fox X UserBot From @FoxXbotOfficials.</b></u>
 """
     await pablo.edit(caption, parse_mode="HTML")
     os.remove(imoge)
