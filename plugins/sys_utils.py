@@ -67,6 +67,7 @@ async def amialive(client, message):
 🦊 **OS :** __{platform.system()}__
 🦊 **CPU :** __{len(psutil.Process().cpu_affinity())}__
 🦊 **DISK USAGE :** __{disk}__
+🦊 **System Stats :** Normal👍
 🦊 **License :** [MIT ©  @FoxXbotOfficials 🦊](https://telegra.ph/text-05-31-3)
 🦊 **Powered By :** [🦊 Fox X Bots](Https://t.me/foxxbotofficials)
 """
